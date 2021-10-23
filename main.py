@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Covid1984 Green Pass Generator
+Covid1972 Green Pass Generator
 """
 
 from zlib import compress
@@ -37,8 +37,8 @@ DATA = {
             "nam": {
                 "fnt": "Goebbels",
                 "fn": "Goebbels",
-                "gnt": "Paul Joseph",
-                "gn": "Paul Joseph"
+                "gnt": "PINTONII LUCA",
+                "gn": "PINTONII LUCA"
             },
             "ver": "1.0.0",
             "dob": "1897-10-29"
