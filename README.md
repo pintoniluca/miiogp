@@ -1,4 +1,4 @@
-# Covid1984 Green Pass Generator
+# Covid1972 Green Pass Generator
 
 Just for fun. No fraud intended
 
